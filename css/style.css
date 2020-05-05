@@ -1,0 +1,88 @@
+body{
+  background-image: url('../img/legno.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 30px 100px 40px 50px;
+}
+
+header{
+  border-bottom: solid 2px white;
+}
+
+/* logo Gmail */
+#logo{
+  vertical-align: middle;
+  width: 150px;
+  height: 130px;
+}
+
+#titolo{
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+}
+
+.search{
+  margin-top: 15px;
+}
+
+.notifica{
+  border-bottom: solid 2px white;
+}
+
+.input{
+  cursor: pointer;
+}
+
+h2{
+  color: white;
+}
+
+ /* cerchio intorno a 30 */
+#circle{
+  height: 45px;
+  width: 45px;
+  background-color: orange;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  line-height: 45px;
+}
+
+/* mail */
+.first{
+  margin-top: 15px;
+  background-color: #ededed !important;
+}
+
+.checkbox{
+  background-color: #a2a2a2;
+  padding-top: 5px;
+  padding-bottom: 4px;
+  border: 1px solid black;
+}
+
+form > div > span > span{
+  color: #4f4f4f;
+}
+
+.mail{
+  padding-bottom: 20px;
+  border-bottom: solid 2px white;
+}
+
+/* fondo pagina */
+footer{
+  text-align: center;
+  color: white;
+}
+
+.fondo{
+  font-size: 23px;
+}
+
+.autore{
+  font-size: 15px;
+}
