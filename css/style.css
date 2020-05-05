@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 /* impostazioni sfondo */
 
+=======
+>>>>>>> master
 body{
   background-image: url('../img/legno.jpeg');
   background-position: center;
@@ -9,16 +12,27 @@ body{
   margin: 30px 100px 40px 50px;
 }
 
+<<<<<<< HEAD
 
 /* header, searchbar e notifiche */
 
+=======
+>>>>>>> master
 header{
   border-bottom: solid 2px white;
 }
 
+<<<<<<< HEAD
 #logo{
   vertical-align: middle;
   width: 150px;
+=======
+/* logo Gmail */
+#logo{
+  vertical-align: middle;
+  width: 150px;
+  height: 130px;
+>>>>>>> master
 }
 
 #titolo{
@@ -37,6 +51,7 @@ header{
 
 .input{
   cursor: pointer;
+<<<<<<< HEAD
   margin-left: 5px;
 }
 
@@ -51,15 +66,21 @@ header{
   font-size: 15px;
   background-color: #ededed;
   color:#e01f25;
+=======
+>>>>>>> master
 }
 
 h2{
   color: white;
 }
 
+<<<<<<< HEAD
 
  /* cerchio intorno a 30 */
 
+=======
+ /* cerchio intorno a 30 */
+>>>>>>> master
 #circle{
   height: 45px;
   width: 45px;
@@ -70,6 +91,7 @@ h2{
   line-height: 45px;
 }
 
+<<<<<<< HEAD
 
 /* mail */
 
@@ -81,22 +103,44 @@ h2{
 
 .mail{
   background-color: #b2b2b2;
+=======
+/* mail */
+.first{
+  margin-top: 15px;
+  background-color: #ededed !important;
+}
+
+.checkbox{
+  background-color: #a2a2a2;
+>>>>>>> master
   padding-top: 5px;
   padding-bottom: 4px;
   border: 1px solid black;
 }
 
+<<<<<<< HEAD
 .read{
   background-color: #ededed;
 }
 
+=======
+>>>>>>> master
 form > div > span > span{
   color: #4f4f4f;
 }
 
+<<<<<<< HEAD
 
 /* fondo pagina */
 
+=======
+.mail{
+  padding-bottom: 20px;
+  border-bottom: solid 2px white;
+}
+
+/* fondo pagina */
+>>>>>>> master
 footer{
   text-align: center;
   color: white;
