@@ -1,0 +1,111 @@
+/* impostazioni sfondo */
+
+body{
+  background-image: url('../img/legno.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 30px 100px 40px 50px;
+}
+
+
+/* header, searchbar e notifiche */
+
+header{
+  border-bottom: solid 2px white;
+}
+
+#logo{
+  vertical-align: middle;
+  width: 150px;
+}
+
+#titolo{
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+}
+
+.search{
+  margin-top: 15px;
+}
+
+.notifica{
+  border-bottom: solid 2px white;
+}
+
+.input{
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.newmail{
+  display: block;
+  margin-bottom: 15px;
+  margin-left: 20px;
+  border: 2px solid #e01f25;
+  border-radius: 30%;
+  width: 90px;
+  height: 35px;
+  font-size: 15px;
+  background-color: #ededed;
+  color:#e01f25;
+}
+
+h2{
+  color: white;
+}
+
+
+ /* cerchio intorno a 30 */
+
+#circle{
+  height: 45px;
+  width: 45px;
+  background-color: orange;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  line-height: 45px;
+}
+
+
+/* mail */
+
+.container{
+  padding-bottom: 20px;
+  border-bottom: solid 2px white;
+  margin-top: 15px;
+}
+
+.mail{
+  background-color: #b2b2b2;
+  padding-top: 5px;
+  padding-bottom: 4px;
+  border: 1px solid black;
+}
+
+.read{
+  background-color: #ededed;
+}
+
+form > div > span > span{
+  color: #4f4f4f;
+}
+
+
+/* fondo pagina */
+
+footer{
+  text-align: center;
+  color: white;
+}
+
+.fondo{
+  font-size: 23px;
+}
+
+.autore{
+  font-size: 15px;
+}

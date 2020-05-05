@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Pagina Gmail Autentica</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- Intestazione -->
+  <header>
+    <img id="logo" src="img/gmail.png" alt="logo gmail">
+    <h1 id="titolo">Gmail</h1>
+  </header>
+
+  <!-- Parte principale -->
+  <main>
+
+    <!-- Search e Notifiche -->
+    <div class="notifica">
+
+      <form class="search" action="index.html" method="post">
+        <button class="input newmail" type="button" name="button">New mail</button>
+        <input class="input" type="text" name="ricerca" placeholder="🔎Search">
+        <button class="input" type="button" name="button">Go!</button>
+      </form>
+
+      <h2>
+        You have <span id="circle">30</span> unread
+      </h2>
+
+    </div>
+
+    <!-- Mail -->
+    <section class="container">
+
+      <form action="index.html" method="post">
+        <div class="mail unread">
+          <input class="input" type="checkbox" name="letto" value="">
+          <span>
+            <strong>&#9733; Oggetto della mail</strong>
+            <span>- testo della mail..</span>
+          </span>
+        </div>
+
+        <div class="mail read">
+          <input  class="input" type="checkbox" name="letto" value="">
+          <span>
+            <strong>&#9733; Oggetto della mail</strong>
+            <span>- testo della mail..</span>
+          </span>
+        </div>
+
+        <div class="mail unread">
+          <input class="input" type="checkbox" name="letto" value="">
+          <span>
+            <strong>&#9733; Oggetto della mail</strong>
+            <span>- testo della mail..</span>
+          </span>
+        </div>
+
+        <div class="mail unread">
+          <input class="input" type="checkbox" name="letto" value="">
+          <span>
+            <strong>&#9733; Oggetto della mail</strong>
+            <span>- testo della mail..</span>
+          </span>
+        </div>
+
+        <div class="mail read">
+          <input  class="input" type="checkbox" name="letto" value="">
+          <span>
+            <strong>&#9733; Oggetto della mail</strong>
+            <span>- testo della mail..</span>
+          </span>
+        </div>
+
+        <div class="mail unread">
+          <input class="input" type="checkbox" name="letto" value="">
+          <span>
+            <strong>&#9733; Oggetto della mail</strong>
+            <span>- testo della mail..</span>
+          </span>
+        </div>
+
+      </form>
+
+    </section>
+
+  </main>
+
+  <!-- Fondo pagina -->
+  <footer>
+    <p>
+      <strong class="fondo">
+        Gmail <em class="autore">powered by Elena</em>
+      </strong>
+    </p>
+  </footer>
+</body>
+
+</html>
