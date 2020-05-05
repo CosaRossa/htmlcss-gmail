@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* impostazioni sfondo */
 
 =======
 >>>>>>> master
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 body{
   background-image: url('../img/legno.jpeg');
   background-position: center;
@@ -13,26 +16,35 @@ body{
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 /* header, searchbar e notifiche */
 
 =======
 >>>>>>> master
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 header{
   border-bottom: solid 2px white;
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #logo{
   vertical-align: middle;
   width: 150px;
 =======
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 /* logo Gmail */
 #logo{
   vertical-align: middle;
   width: 150px;
   height: 130px;
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 }
 
 #titolo{
@@ -52,6 +64,7 @@ header{
 .input{
   cursor: pointer;
 <<<<<<< HEAD
+<<<<<<< HEAD
   margin-left: 5px;
 }
 
@@ -68,6 +81,8 @@ header{
   color:#e01f25;
 =======
 >>>>>>> master
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 }
 
 h2{
@@ -75,12 +90,16 @@ h2{
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  /* cerchio intorno a 30 */
 
 =======
  /* cerchio intorno a 30 */
 >>>>>>> master
+=======
+ /* cerchio intorno a 30 */
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 #circle{
   height: 45px;
   width: 45px;
@@ -91,6 +110,7 @@ h2{
   line-height: 45px;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 /* mail */
@@ -104,6 +124,8 @@ h2{
 .mail{
   background-color: #b2b2b2;
 =======
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 /* mail */
 .first{
   margin-top: 15px;
@@ -112,12 +134,16 @@ h2{
 
 .checkbox{
   background-color: #a2a2a2;
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
   padding-top: 5px;
   padding-bottom: 4px;
   border: 1px solid black;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .read{
   background-color: #ededed;
@@ -125,22 +151,30 @@ h2{
 
 =======
 >>>>>>> master
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 form > div > span > span{
   color: #4f4f4f;
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 /* fondo pagina */
 
 =======
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 .mail{
   padding-bottom: 20px;
   border-bottom: solid 2px white;
 }
 
 /* fondo pagina */
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 057443f7d96b6523843b30332db4c680afd99395
 footer{
   text-align: center;
   color: white;
